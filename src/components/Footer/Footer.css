@@ -1,0 +1,65 @@
+.ends-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
+}
+
+.questions {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.nameIphone {
+  width: 356px;
+  height: 51px;
+  border-radius: 14px;
+  background: #fff;
+  outline: none;
+  border: none;
+}
+.send {
+  width: 191px;
+  height: 46px;
+  flex-shrink: 0;
+  border-radius: 80px;
+  background: #dd392b;
+  color: #fff;
+  border: none;
+}
+.icons {
+  display: flex;
+  align-items: center;
+}
+.footer-container {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 100px;
+}
+.footer-container p {
+  color: #3a3c48;
+  font-family: "Gotham Pro";
+  font-style: normal;
+  font-weight: bold;
+}
+.footer-container span {
+  color: #000;
+  font-family: "Gotham Pro";
+  font-style: normal;
+}
+.footer-content {
+  width: 1850px;
+  height: 100px;
+  background: #3a3c48;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.footer-content span {
+  color: #fff;
+  font-family: "Gotham Pro";
+  font-size: 15px;
+  font-style: normal;
+  font-weight: bold;
+}
