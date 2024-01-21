@@ -1,0 +1,200 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.work {
+  background: url(file:///home/user/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/_sFRRIYIwnk%201.png),
+    lightgray 50% / cover no-repeat;
+  width: 1850px;
+  height: 469px;
+  background-color: rgba(58, 60, 72, 1);
+  position: relative;
+  left: -200px;
+  padding-top: 69px;
+}
+.main {
+  margin-top: 81px;
+}
+.number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 57px;
+  gap: 65px;
+  text-align: center;
+}
+.work h1 {
+  color: #fff;
+  font-family: "Roboto";
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+}
+.number p {
+  margin-top: 22px;
+  color: #fff;
+  font-family: "Roboto";
+  font-weight: 400;
+  line-height: 139.7%;
+}
+.boxBtn {
+  margin-top: 22px;
+  margin-left: 370px;
+}
+.boxBtn button {
+  width: 191px;
+  height: 46px;
+  border-radius: 80px;
+  background: #dd392b;
+  color: #fff;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+}
+.boxBtn hr {
+  width: 875px;
+  stroke-width: 2px;
+  stroke: #71737c;
+  position: relative;
+  left: 180px;
+  top: -25px;
+}
+.boxBtn img {
+  position: relative;
+  left: 100px;
+  top: -34px;
+  margin-left: 225px;
+}
+.article_Container {
+  position: relative;
+  left: -200px;
+  background: #f5f7f9;
+  height: 1015px;
+  width: 1850px;
+  padding: 83px 200px;
+  display: flex;
+  gap: 56px;
+}
+.article_Container h1 {
+  color: #3a3c48;
+  font-family: "Roboto";
+  font-size: 30px;
+  font-weight: 700;
+}
+.data {
+  margin-top: 20px;
+  width: 650px;
+  color: #000;
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25px;
+}
+.data2 {
+  margin-top: 20px;
+  width: 640px;
+  color: #000;
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25px;
+}
+.text_box {
+  margin-top: 50px;
+}
+.boxSubscribe {
+  width: 437px;
+  height: 415px;
+  border-radius: 16px;
+  background: #fff;
+  text-align: center;
+  padding-top: 63px;
+}
+.boxSubscribe h1 {
+  color: #3a3c48;
+  font-family: "Roboto";
+  font-size: 30px;
+  font-weight: 700;
+}
+.boxSubscribe p {
+  color: #3a3c48;
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: 400;
+  margin-top: 25px;
+}
+.boxSubscribe input {
+  width: 257px;
+  height: 51px;
+  border-radius: 53px;
+  background: #f5f7f9;
+  padding: 5px 27px;
+  border: none;
+  outline: none;
+  margin-top: 25px;
+}
+.boxSubscribe button {
+  width: 257px;
+  height: 52px;
+  border-radius: 68px;
+  background: #54ba2d;
+  color: #fff;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  margin-top: 22px;
+}
+.cars1 {
+  display: flex;
+  gap: 16px;
+  margin-top: 43px;
+}
+.toyota {
+  width: 135.086px;
+  height: 117px;
+  border-radius: 14px;
+  background: #fff;
+  padding: 31px 35px;
+}
+.mazda {
+  width: 135.086px;
+  height: 117px;
+  border-radius: 14px;
+  background: #fff;
+  padding: 31px 27px;
+}
+.nissan {
+  width: 135.086px;
+  height: 117px;
+  border-radius: 14px;
+  background: #fff;
+  padding: 31px 20px;
+}
+.cars2 {
+  display: flex;
+  gap: 16px;
+  margin-top: 15px;
+}
+.isuzu {
+  width: 135.086px;
+  height: 117px;
+  border-radius: 14px;
+  background: #fff;
+  padding: 50px 25px;
+}
+.subaru {
+  width: 135.086px;
+  height: 117px;
+  border-radius: 14px;
+}
+.daihatsu {
+  width: 135.086px;
+  height: 117px;
+  border-radius: 14px;
+  background: #fff;
+  padding: 35px 33px;
+}
